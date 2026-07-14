@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_report_cell_style",
+  "source_file": "utl-altair-slc-get-the-color-of-a-cell-in-excel-xlsx.sas",
+  "source_blob_sha": "41386ac37933ecd8a785d127e841912afba307fb",
+  "source_commit": "21ad37264e3f14a09419eb517dffe71fc8d33c05",
+  "notes": "Base SAS core of the repo's SLC utility: DATA step building the colors table and PROC REPORT rendering it with a call define STYLE override setting the cell background to the same Torch Red CXEE0044 the R/Python solutions extract. ODS target rewritten from hardcoded d:/xls path to a relative report.html; %utlfkil housekeeping call and the SLC-only proc r / proc python blocks dropped."
+}

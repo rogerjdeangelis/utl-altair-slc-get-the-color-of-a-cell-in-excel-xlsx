@@ -1,0 +1,13 @@
+{
+  "_captured_at": "2026-07-14T09:20:51Z",
+  "_captured_run_id": "r_404d5bd13f0045fe95b54abe95440cd7",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Wrote workx_colors (1 rows, 2 columns).",
+    "NOTE: PROC REPORT output 1 observations with 2 variables.",
+    "NOTE: PROC PRINT completed: 1 observations printed, 2 variables"
+  ],
+  "log_does_not_contain": ["ERROR:", "[JENNER-ERROR"],
+  "diagnostics": {"parse_warnings": [], "runtime_warnings": []}
+}
